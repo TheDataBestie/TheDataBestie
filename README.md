@@ -9,7 +9,7 @@ Now, with expertise in **Power BI, Excel, SQL, and Python**, I help turn complex
 
 Currently, I'm working as a **data analyst intern**, refining my skills in **data visualization, statistical analysis, and business intelligence**. I love tackling challenges, solving problems, and continuously learning new tools and techniques to stay ahead in the field.  
 
-When I'm not immersed in data, you can find me exploring **new tech trends**, engaging in **professional development**, or sharing **insights with fellow data enthusiasts**. I believe in lifelong learning, collaboration, and making data work for the betterment of everyone regardless of fgr sector.
+When I'm not immersed in data, you can find me exploring **new tech trends**, engaging in **professional development**, or sharing **insights with fellow data enthusiasts**. I believe in lifelong learning, collaboration, and making data work for the betterment of everyone regardless of the sector.
 
 Let's connect, besties, and turn data into impactful **healthcare and business solutions**!  
 
