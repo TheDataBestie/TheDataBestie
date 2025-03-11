@@ -67,4 +67,4 @@ Let's connect, besties, and turn data into impactful **healthcare and business s
 ## Contact Information  
 📧 **Email**: favourabani59@gmail.com  
 📞 **Phone**: +234701XXXXXXX  
-🔗 **My LinkedIn**: (https://www.linkedin.com/in/abani-favour-955970354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+🔗 **My LinkedIn**: [My linkedin](https://www.linkedin.com/in/abani-favour-955970354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
