@@ -1,7 +1,7 @@
 # DATA ANALYST | BUSINESS INTELLIGENCE ANALYST | HEALTHCARE ANALYST  
 
 ## About Me  
-Hey there! Your Bestie here, My name is **Abani Favour Elemchi**, a healthcare data analyst who believes numbers tell better stories than words (but I'll still try to make this fun!). Somehow, I have been able to pivot from Nursing to Numbers – I started in healthcare, ensuring patients got the best care, but then I discovered the power of data analytics.  
+Hey there! Your Bestie here, My name is **Abani Favour Elemchi**, a girl who believes numbers tell better stories than words (but I'll still try to make this fun!). Somehow, I have been able to pivot from Nursing to Numbers – I started in healthcare, ensuring patients got the best care, but then I discovered the power of data analytics.  
 
 My journey started in **nursing**, where I developed a deep understanding of people’s needs through clinical workflows and the challenges faced in the healthcare system. Over time, I realized that beyond bedside care, **data-driven decision-making** plays a crucial role in improving general outcomes. This realization led me to explore **data analytics**, where I now bridge the gap between problems and solutions.  
 
@@ -9,7 +9,7 @@ Now, with expertise in **Power BI, Excel, SQL, and Python**, I help turn complex
 
 Currently, I'm working as a **data analyst intern**, refining my skills in **data visualization, statistical analysis, and business intelligence**. I love tackling challenges, solving problems, and continuously learning new tools and techniques to stay ahead in the field.  
 
-When I'm not immersed in data, you can find me exploring **new tech trends**, engaging in **professional development**, or sharing **insights with fellow data enthusiasts**. I believe in lifelong learning, collaboration, and making data work for the betterment of healthcare.  
+When I'm not immersed in data, you can find me exploring **new tech trends**, engaging in **professional development**, or sharing **insights with fellow data enthusiasts**. I believe in lifelong learning, collaboration, and making data work for the betterment of everyone regardless of fgr sector.
 
 Let's connect, besties, and turn data into impactful **healthcare and business solutions**!  
 
